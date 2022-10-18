@@ -1,1 +1,1 @@
-# mivicore
+# mivicor
